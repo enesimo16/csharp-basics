@@ -1,0 +1,14 @@
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\bin\Debug\net8.0\Strings-ve-Date.exe
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\bin\Debug\net8.0\Strings-ve-Date.deps.json
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\bin\Debug\net8.0\Strings-ve-Date.runtimeconfig.json
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\bin\Debug\net8.0\Strings-ve-Date.dll
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\bin\Debug\net8.0\Strings-ve-Date.pdb
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\Strings-ve-Date.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\Strings-ve-Date.AssemblyInfoInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\Strings-ve-Date.AssemblyInfo.cs
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\Strings-ve-Date.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\Strings-ve-Date.dll
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\refint\Strings-ve-Date.dll
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\Strings-ve-Date.pdb
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\Strings-ve-Date.genruntimeconfig.cache
+C:\Users\Enes Yel\source\repos\class-1\Strings-ve-Date\obj\Debug\net8.0\ref\Strings-ve-Date.dll

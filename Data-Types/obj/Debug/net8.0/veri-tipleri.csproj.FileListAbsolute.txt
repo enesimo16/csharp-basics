@@ -1,0 +1,14 @@
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\bin\Debug\net8.0\veri-tipleri.exe
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\bin\Debug\net8.0\veri-tipleri.deps.json
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\bin\Debug\net8.0\veri-tipleri.runtimeconfig.json
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\bin\Debug\net8.0\veri-tipleri.dll
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\bin\Debug\net8.0\veri-tipleri.pdb
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\veri-tipleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\veri-tipleri.AssemblyInfoInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\veri-tipleri.AssemblyInfo.cs
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\veri-tipleri.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\veri-tipleri.dll
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\refint\veri-tipleri.dll
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\veri-tipleri.pdb
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\veri-tipleri.genruntimeconfig.cache
+C:\Users\Enes Yel\source\repos\class-1\veri-tipleri\obj\Debug\net8.0\ref\veri-tipleri.dll

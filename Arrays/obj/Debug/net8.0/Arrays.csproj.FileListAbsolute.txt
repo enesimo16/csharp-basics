@@ -1,0 +1,14 @@
+C:\Users\Enes Yel\source\repos\class-1\Arrays\bin\Debug\net8.0\Arrays.exe
+C:\Users\Enes Yel\source\repos\class-1\Arrays\bin\Debug\net8.0\Arrays.deps.json
+C:\Users\Enes Yel\source\repos\class-1\Arrays\bin\Debug\net8.0\Arrays.runtimeconfig.json
+C:\Users\Enes Yel\source\repos\class-1\Arrays\bin\Debug\net8.0\Arrays.dll
+C:\Users\Enes Yel\source\repos\class-1\Arrays\bin\Debug\net8.0\Arrays.pdb
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfoInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\Arrays.AssemblyInfo.cs
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\Arrays.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\Arrays.dll
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\refint\Arrays.dll
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\Arrays.pdb
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\Arrays.genruntimeconfig.cache
+C:\Users\Enes Yel\source\repos\class-1\Arrays\obj\Debug\net8.0\ref\Arrays.dll

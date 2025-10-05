@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{398FB20C-4B37-43E5-B03B-90E55C7996A9}|Collections\\Collections.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{398FB20C-4B37-43E5-B03B-90E55C7996A9}|Collections\\Collections.csproj|solutionrelative:collections\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{999BB579-D39F-4E07-A9D9-8FA213380A02}|Exception-Handling\\Exception-Handling.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\exception-handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{999BB579-D39F-4E07-A9D9-8FA213380A02}|Exception-Handling\\Exception-Handling.csproj|solutionrelative:exception-handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C032D99F-8B98-4FF9-B9E2-44A0D6A86ADE}|OOP\\OOP.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C032D99F-8B98-4FF9-B9E2-44A0D6A86ADE}|OOP\\OOP.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06365AF-AE1D-4993-94B6-93CD20841657}|File-Operations\\File-Operations.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\file-operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A06365AF-AE1D-4993-94B6-93CD20841657}|File-Operations\\File-Operations.csproj|solutionrelative:file-operations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A06365AF-AE1D-4993-94B6-93CD20841657}|File-Operations\\File-Operations.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\file-operations\\example.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A06365AF-AE1D-4993-94B6-93CD20841657}|File-Operations\\File-Operations.csproj|solutionrelative:file-operations\\example.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E2F8BD-3B1C-447F-9D9C-2C825F087366}|Loops\\Loops.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E2F8BD-3B1C-447F-9D9C-2C825F087366}|Loops\\Loops.csproj|solutionrelative:loops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B4FF73C-27EA-4279-A407-0207D668E0D1}|Conditional-Blocks\\Conditional-Blocks.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\conditional-blocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B4FF73C-27EA-4279-A407-0207D668E0D1}|Conditional-Blocks\\Conditional-Blocks.csproj|solutionrelative:conditional-blocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7D57275-6D78-4DD6-8AB7-2918D18292D2}|Operators\\Operators.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7D57275-6D78-4DD6-8AB7-2918D18292D2}|Operators\\Operators.csproj|solutionrelative:operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1FFB5E84-8EBF-42CC-A661-79A536E40E36}|Arrays\\Arrays.csproj|c:\\users\\enes yel\\source\\repos\\class-1\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1FFB5E84-8EBF-42CC-A661-79A536E40E36}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Exception-Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Exception-Handling\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Exception-Handling\\Program.cs",
+              "RelativeToolTip": "Exception-Handling\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T15:13:46.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Collections\\Program.cs",
+              "RelativeDocumentMoniker": "Collections\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Collections\\Program.cs",
+              "RelativeToolTip": "Collections\\Program.cs",
+              "ViewState": "AgIAAGEAAAAAAAAAAAAUwGsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T14:45:46.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\OOP\\Program.cs",
+              "RelativeDocumentMoniker": "OOP\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\OOP\\Program.cs",
+              "RelativeToolTip": "OOP\\Program.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAkwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T13:50:03.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "example.txt",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\File-Operations\\example.txt",
+              "RelativeDocumentMoniker": "File-Operations\\example.txt",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\File-Operations\\example.txt",
+              "RelativeToolTip": "File-Operations\\example.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-05T12:57:09.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\File-Operations\\Program.cs",
+              "RelativeDocumentMoniker": "File-Operations\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\File-Operations\\Program.cs",
+              "RelativeToolTip": "File-Operations\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:56:09.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Loops\\Program.cs",
+              "RelativeDocumentMoniker": "Loops\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Loops\\Program.cs",
+              "RelativeToolTip": "Loops\\Program.cs",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAowLoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T12:31:10.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Conditional-Blocks\\Program.cs",
+              "RelativeDocumentMoniker": "Conditional-Blocks\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Conditional-Blocks\\Program.cs",
+              "RelativeToolTip": "Conditional-Blocks\\Program.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAwEoAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:54:11.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Operators\\Program.cs",
+              "RelativeDocumentMoniker": "Operators\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Operators\\Program.cs",
+              "RelativeToolTip": "Operators\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T11:50:56.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\Enes Yel\\source\\repos\\class-1\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAE4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-05T10:23:56.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

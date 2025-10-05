@@ -1,0 +1,14 @@
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\degisken-tanimlama.exe
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\degisken-tanimlama.deps.json
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\degisken-tanimlama.runtimeconfig.json
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\degisken-tanimlama.dll
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\degisken-tanimlama.pdb
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\degisken-tanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\degisken-tanimlama.AssemblyInfoInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\degisken-tanimlama.AssemblyInfo.cs
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\degisken-tanimlama.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\degisken-tanimlama.dll
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\refint\degisken-tanimlama.dll
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\degisken-tanimlama.pdb
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\degisken-tanimlama.genruntimeconfig.cache
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\ref\degisken-tanimlama.dll

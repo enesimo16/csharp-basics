@@ -1,0 +1,14 @@
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\class-1.exe
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\class-1.deps.json
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\class-1.runtimeconfig.json
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\class-1.dll
+C:\Users\Enes Yel\source\repos\class-1\class-1\bin\Debug\net8.0\class-1.pdb
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\class-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\class-1.AssemblyInfoInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\class-1.AssemblyInfo.cs
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\class-1.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\class-1.dll
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\refint\class-1.dll
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\class-1.pdb
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\class-1.genruntimeconfig.cache
+C:\Users\Enes Yel\source\repos\class-1\class-1\obj\Debug\net8.0\ref\class-1.dll

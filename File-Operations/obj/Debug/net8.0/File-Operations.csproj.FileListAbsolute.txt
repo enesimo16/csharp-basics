@@ -1,0 +1,14 @@
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\bin\Debug\net8.0\File-Operations.exe
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\bin\Debug\net8.0\File-Operations.deps.json
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\bin\Debug\net8.0\File-Operations.runtimeconfig.json
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\bin\Debug\net8.0\File-Operations.dll
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\bin\Debug\net8.0\File-Operations.pdb
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\File-Operations.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\File-Operations.AssemblyInfoInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\File-Operations.AssemblyInfo.cs
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\File-Operations.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\File-Operations.dll
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\refint\File-Operations.dll
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\File-Operations.pdb
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\File-Operations.genruntimeconfig.cache
+C:\Users\Enes Yel\source\repos\class-1\File-Operations\obj\Debug\net8.0\ref\File-Operations.dll

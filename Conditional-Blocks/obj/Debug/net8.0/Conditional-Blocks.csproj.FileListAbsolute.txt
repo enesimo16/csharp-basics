@@ -1,0 +1,14 @@
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\bin\Debug\net8.0\Conditional-Blocks.exe
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\bin\Debug\net8.0\Conditional-Blocks.deps.json
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\bin\Debug\net8.0\Conditional-Blocks.runtimeconfig.json
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\bin\Debug\net8.0\Conditional-Blocks.dll
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\bin\Debug\net8.0\Conditional-Blocks.pdb
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\Conditional-Blocks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\Conditional-Blocks.AssemblyInfoInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\Conditional-Blocks.AssemblyInfo.cs
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\Conditional-Blocks.csproj.CoreCompileInputs.cache
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\Conditional-Blocks.dll
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\refint\Conditional-Blocks.dll
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\Conditional-Blocks.pdb
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\Conditional-Blocks.genruntimeconfig.cache
+C:\Users\Enes Yel\source\repos\class-1\Conditional-Blocks\obj\Debug\net8.0\ref\Conditional-Blocks.dll
